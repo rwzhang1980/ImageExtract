@@ -8,7 +8,7 @@ public class Main {
 		try {
 			System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
 			Extract2 e = new Extract2();
-			e.extract("D:\\Works\\JavaWorks\\SVM\\ImageExtract\\res\\18.jpg", "");
+			e.extract("D:\\Works\\Git\\ImageExtract\\ImageExtract\\res\\11.jpg", "");
 		} catch (Exception e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
